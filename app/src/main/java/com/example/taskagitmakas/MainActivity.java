@@ -91,7 +91,7 @@ public class MainActivity extends AppCompatActivity {
                 bilgisayarSecim.setText("makas");
                 break;
         }
-        skorText(kullsec,bsecim);
+        skorText(kullaniciskor,bilgskor);
     }
 
     private void skorText(int user,int comp){
